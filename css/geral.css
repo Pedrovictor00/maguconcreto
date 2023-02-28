@@ -311,6 +311,7 @@ aside .navibar .show:hover .submenu a:hover{
 
     .cabeca , .cabeca.sticky{
         background: #fff;
+        z-index: 100000;
     }
 
     .cabeca.sticky .navibar{
@@ -500,6 +501,11 @@ aside .navibar .show:hover .submenu a:hover{
     .footer a{
         color: #037b8e;
     }
+
+    .links{
+        display: none;
+    }
+    
 }
 
 @media (max-width:991px){
