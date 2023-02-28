@@ -385,6 +385,10 @@ aside .navibar .show:hover .submenu a:hover{
     .social li{
         padding: 11px;
     }
+
+    .social{
+        display: none;
+    }
 }
 
 /*Icons*/
